@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Actividad 11 BD</string>
+    <string name="idCliente">id</string>
+    <string name="idNombre">Nombre</string>
+    <string name="idDireccion">Direccion</string>
+    <string name="idCorreo">Correo</string>
+    <string name="idNumero">Numero</string>
+    <string name="btn_Agregar">Agregar</string>
+    <string name="btn_Eliminar">Eliminar</string>
+    <string name="btn_Buscar_id">Buscar por id</string>
+    <string name="btn_Buscar_nombre">Buscar por nombre</string>
+
+</resources>
